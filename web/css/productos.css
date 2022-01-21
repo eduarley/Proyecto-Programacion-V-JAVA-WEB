@@ -1,0 +1,11 @@
+
+
+.producto--pinto::before{
+    content: "\e919";
+}
+
+
+.zoom:hover{
+    transform: scale(1.1);
+    transition:  all ease .3s;
+}
